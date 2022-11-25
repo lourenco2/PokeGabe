@@ -2,7 +2,7 @@
 
 Projeto destinado a disciplina de Desenvolvimento Mobile da Universidade Positivo. 
 
-Este projeto feito em Kotlin é uma pokedex de pokemons que consome os dados da PokeAPI.
+Este projeto feito em Kotlin é uma pokedex que consome os dados da PokeAPI.
 
 
 
